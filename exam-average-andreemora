@@ -1,19 +1,15 @@
 """
-Full Name:
-Class-Section:
-Assignment Title:
-Submission Date:
-"""
-"""
-Write your pseudocode here.
-Do not write any Python code in this section.
-Your pseudocode should describe your overall approach in your own words.
-"""
+Full Name: Andree
+Class-Section: IS 250
+Assignment Title: exam average pseudo code to python
+Submission Date: November 17th
+
+
+
 #Ask for three scores and store them
 #define and calculate the average 
 #print each score and final average 
 
-# Your Python code begins below this line.
 
 # prompt the user to enter the three exam scores 
 Score1 = int(input("Enter the first score: ")
@@ -35,7 +31,6 @@ print("Third score:", s3)
 # print finals score 
 print ("The average score is:", average)
 
-# Every line you write must have a comment directly above it.
 
 # Call your function when your program is ready
 calculate_average   
