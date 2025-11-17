@@ -1,5 +1,5 @@
 """
-Full Name: Andree
+Full Name: Andree Mora
 Class-Section: IS 250
 Assignment Title: exam average pseudo code to python
 Submission Date: November 17th
@@ -28,7 +28,7 @@ print("First score:", s1)
 print("Second score:", s2)
 print("Third score:", s3)
 
-# print finals score 
+# print final score 
 print ("The average score is:", average)
 
 
