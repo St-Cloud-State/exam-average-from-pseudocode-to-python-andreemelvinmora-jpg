@@ -17,11 +17,11 @@ Score2 = int(input("Enter the second score: ")
 Score3 = int(input("Enter the third score: ")
 
 # define a function to calculate the average of the scores  
-def calculate_average(s1,s2,s3):
+def calculate_average(s1, s2, s3):
   return (s1 + s2 + s3) / 3 
 
 # call the function to compute 
-average = calculate average(Score1, Score2,Score3)
+average = calculate average(Score1, Score2, Score3)
 
 # print each score 
 print("First score:", s1)
@@ -29,7 +29,7 @@ print("Second score:", s2)
 print("Third score:", s3)
 
 # print final score 
-print ("The average score is:", average)
+print ("The average score is: ", average)
 
 
 # Call your function when your program is ready
